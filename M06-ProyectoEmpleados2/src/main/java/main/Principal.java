@@ -55,7 +55,7 @@ public class Principal {
 
 				switch (pos) {
 				case 1:
-
+					insertarDatos(conn);
 					break;
 				case 2:
 
